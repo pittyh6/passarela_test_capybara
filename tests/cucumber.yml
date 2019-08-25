@@ -1,0 +1,5 @@
+---
+default: -p pretty -p homolog -p html
+pretty: --format pretty
+homolog: ENVIRONMENT=homolog
+html: --format html --out=report/record.html

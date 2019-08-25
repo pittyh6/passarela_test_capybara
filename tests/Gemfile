@@ -1,0 +1,15 @@
+source 'http://rubygems.org'
+
+gem 'capybara'
+gem 'selenium-webdriver'
+gem 'cucumber'
+gem 'rspec'
+gem 'site_prism'
+#A library for generating fake data such as names, addresses, and phone numbers.
+gem 'faker'
+#Generates Brazilian CPF numbers for use in testing.
+gem 'cpf_faker'
+gem 'chromedriver-helper'
+gem 'rspec'
+gem 'git'
+gem 'heroku'
